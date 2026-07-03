@@ -13,7 +13,7 @@ I am passionate about transforming data into meaningful insights and building ma
 -  Transitioning into Data Science and Machine Learning
 -  Building practical projects using Python
 -  Passionate about Healthcare Analytics and AI
--  Currently learning SQL, Machine Learning, and Data Visualization
+-  Currently Machine Learning, and Data Visualization
 -  Seeking Data Science Internship opportunities
 
 ---
@@ -50,24 +50,7 @@ A machine learning model that predicts whether a breast tumor is malignant or be
 - Machine Learning
 - Model Evaluation
 - Data Visualization
-
----
-
-### Exploratory Data Analysis
-
-Analyzing datasets to uncover trends, patterns, and insights through statistical analysis and visualization.
-
----
-
-### More Projects Coming Soon
-
-- Customer Churn Prediction
-- Diabetes Prediction
-- Heart Disease Prediction
-- House Price Prediction
-- Data Dashboards
-- SQL Projects
-
+  
 ---
 
 ## Areas of Interest
@@ -75,18 +58,7 @@ Analyzing datasets to uncover trends, patterns, and insights through statistical
 - Data Science
 - Machine Learning
 - Artificial Intelligence
-- Healthcare Analytics
 - Predictive Modeling
-
----
-
-## Currently Learning
-
-- SQL
-- Feature Engineering
-- Model Optimization
-- Deep Learning
-- Power BI
 
 ---
 
