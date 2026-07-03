@@ -7,18 +7,18 @@ I am passionate about transforming data into meaningful insights and building ma
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Master's degree in Medical Physics
-- 📊 Transitioning into Data Science and Machine Learning
-- 🐍 Building practical projects using Python
-- 📈 Passionate about Healthcare Analytics and AI
-- 🌱 Currently learning SQL, Machine Learning, and Data Visualization
-- 🎯 Seeking Data Science Internship opportunities
+-  Master's degree in Medical Physics
+-  Transitioning into Data Science and Machine Learning
+-  Building practical projects using Python
+-  Passionate about Healthcare Analytics and AI
+-  Currently learning SQL, Machine Learning, and Data Visualization
+-  Seeking Data Science Internship opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -39,9 +39,9 @@ I am passionate about transforming data into meaningful insights and building ma
 
 ---
 
-## 📂 Featured Projects
+## Projects
 
-### 🩺 Breast Cancer Prediction
+### Breast Cancer Prediction
 A machine learning model that predicts whether a breast tumor is malignant or benign using clinical features.
 
 **Skills Used**
@@ -53,13 +53,13 @@ A machine learning model that predicts whether a breast tumor is malignant or be
 
 ---
 
-### 📊 Exploratory Data Analysis
+### Exploratory Data Analysis
 
 Analyzing datasets to uncover trends, patterns, and insights through statistical analysis and visualization.
 
 ---
 
-### 🤖 More Projects Coming Soon
+### More Projects Coming Soon
 
 - Customer Churn Prediction
 - Diabetes Prediction
@@ -70,18 +70,17 @@ Analyzing datasets to uncover trends, patterns, and insights through statistical
 
 ---
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 - Data Science
 - Machine Learning
 - Artificial Intelligence
 - Healthcare Analytics
 - Predictive Modeling
-- Medical Data Analysis
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - SQL
 - Feature Engineering
@@ -97,11 +96,11 @@ Analyzing datasets to uncover trends, patterns, and insights through statistical
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I am always open to learning, collaboration, and internship opportunities in Data Science, Machine Learning, and Healthcare Analytics.
 
-Thank you for visiting my GitHub profile! ⭐
+Thank you for visiting my GitHub profile! 
 
 <!--
 **James-Olima/James-Olima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
